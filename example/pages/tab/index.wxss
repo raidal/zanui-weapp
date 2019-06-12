@@ -1,7 +1,0 @@
-.doc-title {
-  margin-top: 50px;
-}
-.active-tab {
-  color: blue !important;
-  border-color: blue !important;
-}
